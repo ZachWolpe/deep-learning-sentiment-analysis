@@ -1,5 +1,5 @@
 """
-------------------------------------------------------------
+----------------------------------------------------------------------------------
 Preprocessing modules
 
 This module contains functions to preprocess the data.
@@ -16,8 +16,9 @@ Usage:
        [1] --input_file (str): './Womens Clothing E-Commerce Reviews.csv' (default): Path to the input file
        [2] --output_file (str): './kaggle/working/womenclothing/customer_reviews.csv' (default): Path to the output file
 
-: 22 May 24
-------------------------------------------------------------
+: 22.05.24
+: zachcolinwolpe@medibio.com
+----------------------------------------------------------------------------------
 """
 
 import pandas as pd
